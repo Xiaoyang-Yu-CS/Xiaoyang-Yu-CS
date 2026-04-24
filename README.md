@@ -1,6 +1,6 @@
 - Research interests:
 
-  - LLMs, VLA, GenAI
+  - VLA, Robotics Learning, Anti-disturbance
 
 - Contact me:
   
